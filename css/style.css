@@ -98,6 +98,8 @@ body {
 }
 
 .bottom_text {
+  height: 90px;
+  overflow: hidden;
   opacity: 0;
   animation: fadeInText .8s .2s ease forwards;
 }
